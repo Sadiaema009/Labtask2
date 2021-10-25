@@ -1,0 +1,17 @@
+[
+    {
+        "firstName": "raisa",
+        "lastName": "ema",
+        "email": "ema@gmail.com",
+        "age": "24",
+        "designation": [
+            "JuniorProgrammer"
+        ],
+        "language": [
+            "Java",
+            "PHP",
+            "C#"
+        ],
+        "password": "asdfghjk"
+    }
+]
